@@ -18,3 +18,21 @@ a, .text-sm{
     
 
 }
+.bing-bannar{
+    background-image: url(./IMG/BG-1.jpg);
+    background-repeat: no-repeat;
+}
+.small-bannar-1{
+    background-image: url(./IMG/BG-2.png);
+    background-repeat: no-repeat;
+}
+.small-bannar-2{
+    background-image: url(./IMG/BG-3.png);
+    background-repeat: no-repeat;
+}
+.bg-orange{
+    background-color: #FF8A00;
+}
+.text-5{
+    color: #00B207;
+}
