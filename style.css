@@ -15,7 +15,6 @@ a, .text-sm{
 .bg-black-main{
     background: #333333;
     color: #999999;
-    
 
 }
 .vtext-ol{
@@ -59,4 +58,8 @@ a, .text-sm{
 .h-96{
     font-family: sans-serif;
 
+}
+.discount-container{
+    background-image: url(./IMG/q-1.jpg);
+    height: 280px;
 }
