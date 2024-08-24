@@ -61,8 +61,29 @@ a, .text-sm{
 }
 .discount-container{
     background-image: url(./IMG/q-1.jpg);
-    height: 280px;
+    height: 210px;
 }
-.YUIK{
-    font-size: 20px;
+.insta-1{
+    background-image: url(./IMG/z-1.png);
+    height: 150px;
+}
+.insta-2{
+    background-image: url(./IMG/z-2.png);
+    height: 150px;
+}
+.insta-3{
+    background-image: url(./IMG/z-3.png);
+    height: 150px;
+}
+.insta-4{
+    background-image: url(./IMG/z-4.png);
+    height: 150px;
+}
+.insta-5{
+    background-image: url(./IMG/z-5.png);
+    height: 150px;
+}
+.insta-6{
+    background-image: url(./IMG/z-6.png);
+    height: 150px;
 }
