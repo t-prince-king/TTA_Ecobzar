@@ -87,3 +87,15 @@ a, .text-sm{
     background-image: url(./IMG/z-6.png);
     height: 150px;
 }
+.contact-main-header{
+    background-image: url(./IMG/s-1.png);
+    height: 40px;
+}
+.contact-map{
+    background-image: url(./IMG/m-1.png);
+    height: 200px;
+}
+.blog-main-header{
+    background-image: url(./IMG/s-2.png);
+    height: 40px;
+}
