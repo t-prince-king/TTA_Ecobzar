@@ -99,3 +99,20 @@ a, .text-sm{
     background-image: url(./IMG/s-2.png);
     height: 40px;
 }
+.sing-main-header{
+    background-image: url(./IMG/sing-1.png);
+    height: 40px;
+}
+@media screen and (max-width:768) {
+    .w-15{
+        width: 30%;
+    }
+    .sing-main-header{
+        display: none;
+    }
+}
+.blog-discount-container{
+    background-image: url(./IMG/yiu-1.png);
+    height: 190;
+    background-size: cover;
+}
